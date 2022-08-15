@@ -15,7 +15,7 @@ console.log("\n
  ░         ░                        ░           \n
       ░                                         \n
 ")
-console.log("Written by TheOnyxGuy, SaturnGMD2 and Sevenworks.")
+console.log("Written by TheDreamFoxy, SaturnGMD2 and Sevenworks.")
 setInterval(function(){fetchRecents();}, config.timing);
 
 var defaults = {
