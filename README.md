@@ -6,8 +6,9 @@ You can edit config.json and edit the values you want.
   
 username = Geometry Dash Username  
 password = Geometry Dash Password (No GJP)  
-userid = Your User ID, Get it from GDBrowser.  
+accountid = Your Account ID, Get it from GDBrowser.  
 comment = Comment to spam.  
+percent = Percentage for the comments.  
 timeout = Timeout in milliseconds (25000 is reccomended)  
   
 # Installing packages for the Bot and running it.
