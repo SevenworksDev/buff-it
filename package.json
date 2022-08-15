@@ -1,0 +1,15 @@
+{
+  "name": "buff-it",
+  "version": "1.0.0",
+  "description": "Geometry Dash Comment Spammer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sevenworks",
+  "license": "GNU",
+  "dependencies": {
+    "nodejs-base64-encode": "^1.1.0",
+    "request": "^2.88.2"
+  }
+}
