@@ -19,9 +19,7 @@ Third, Run the command "npm install" in your bot folder
 Lastly, Run "node index.js" to start the bot.  
 
 # For Android Users.
-Make a file in /storage/emulated/0 called termux.sh and copy and paste the code from my GitHub's termux.sh to your fil
-
-e. 
+Make a file in /storage/emulated/0 called termux.sh and copy and paste the code from my GitHub's termux.sh to your file.  
 Install Termux from F-Droid and not Google Play.  
 Open Termux and run the termux-setup-storage command.  
 Type cd /storage/emulated/0 and then enter.  
