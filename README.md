@@ -1,5 +1,5 @@
 # What does it do?
-Searches the Recent Levels and then comment on the most recent one.  
+Searches the Recent Levels and then comments on the most recent one.  
 
 # Configuring the Bot.
 You can edit config.json and edit the values you want.  
